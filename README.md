@@ -11,7 +11,7 @@ Dodawaj koncerty, zapisując:
 - nazwę zespołu lub artysty,
 - datę wydarzenia (z wykorzystaniem wygodnego kalendarza),
 - miejsce koncertu,
-- własną ocenę w skali 1–5 ⭐,
+- własną ocenę w skali 1-5 ⭐,
 - osobiste notatki i wspomnienia.
 
 ### 🌐 Integracja z Last.fm API
