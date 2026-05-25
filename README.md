@@ -80,8 +80,8 @@ Dzięki temu aplikacja jest gotowa do działania od razu po uruchomieniu.
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/mainscreen.jpg" width="220"/>
   <img src="screenshots/addconcertscreen.jpg" width="220"/>
+  <img src="screenshots/mainscreen.jpg" width="220"/>
   <img src="screenshots/concertscreen.jpg" width="220"/>
 </p>
 
