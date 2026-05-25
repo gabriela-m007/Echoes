@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Echoes</string>
+    <string name="add_concert_title">Dodaj nowy koncert</string>
+    <string name="band_name_hint">Nazwa artysty</string>
+    <string name="date_hint">Data</string>
+    <string name="venue_hint">Miejsce</string>
+    <string name="notes_hint">Twoje wspomnienia z koncertu...</string>
+    <string name="rating_hint">Ocena (1-5)</string>
+    <string name="save_button">Zapisz koncert</string>
+    <string name="my_concerts">Moje Koncerty</string>
+    <string name="no_concerts">Jeszcze nie byłeś na żadnym koncercie? Dodaj wpis!</string>
+    <string name="delete">Usuń wpis</string>
+</resources>
