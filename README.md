@@ -1,4 +1,4 @@
-# 🎵 Echoes – Dziennik Koncertowy
+# 🎵 Echoes - Dziennik Koncertowy
 
 **Echoes** to nowoczesna aplikacja mobilna na system Android stworzona dla miłośników muzyki na żywo. Umożliwia prowadzenie osobistego pamiętnika koncertowego, łącząc własne wspomnienia z danymi pobieranymi z zewnętrznych muzycznych API.
 
